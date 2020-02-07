@@ -36,7 +36,7 @@ body {
 }
 /* Start Landing Page Section  */
 .home-inner {
-  background-image: url(computers.png);
+  background-image: url("computers.png");
   background-size: cover;
   opacity: .9;
   width: 100%;
